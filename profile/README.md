@@ -1,4 +1,3 @@
-## Hi there 👋
 
 We are [xjtu.men](https://xjtu.men), an open, non-profit, independent, unofficial platform to **faciliate communication** between [XJTU](http://www.xjtu.edu.cn)ers.
 
