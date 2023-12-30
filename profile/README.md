@@ -11,4 +11,4 @@ Contact any admin / mod at [xjtu.men](https://xjtu.men) or file an issue at our 
 See https://github.com/xjtumen/domains/blob/main/README.md
 
 ## Service status
-See https://status.xjtu.live/status/all
+See https://status.xjtu.men/status/all
