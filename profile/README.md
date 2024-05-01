@@ -8,7 +8,7 @@ We are [xjtu.men](https://xjtu.men), an open, non-profit, independent, unofficia
 Contact any admin / mod at [xjtu.men](https://xjtu.men) or file an issue at our repository.
 
 ## Currently available domains
-See https://github.com/xjtumen/domains/blob/main/README.md
+See https://github.com/xjtu-men/domains/blob/main/README.md
 
 ## Service status
 See https://status.xjtu.men/status/all
